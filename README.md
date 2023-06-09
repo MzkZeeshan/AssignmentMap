@@ -19,6 +19,11 @@ npx react-native run-android
 Run the app for IOS:
 
 ```
+cd ios && pod install && cd .. 
+
+```
+
+```
 npx react-native run-ios
 
 ```
